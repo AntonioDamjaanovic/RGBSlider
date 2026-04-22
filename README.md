@@ -25,7 +25,10 @@ Hardware communication:
 ## 📸 Screenshots
 
 <div style="display:flex; gap:16px;">
-  <img src="images/app.png" width="200"/>
+  <img src="images/app.png" width="400"/>
+</div>
+
+<div style="display:flex; gap:20px; margin-top:20px;">
   <img src="images/components.jpeg" width="200"/>
   <img src="images/blue.jpeg" width="200"/>
   <img src="images/green.jpeg" width="200"/>
